@@ -30,8 +30,7 @@ use]. <b>
 -  <p> Lastly, employees could download a complete CSV file containing all the relevant data, including student ID, name, college, placement status, course scores, interview date, company name, and interview result. This export functionality made it easier for the company to compile reports.</p>
 
 ## Getting Started
--  <b> 1. &nbsp; Clone Git Repo  </b>
-    <br>----<i> git clone https://github.com/Sahil-Sayyad/Placement_Cell.git </i><br><br>
+
 -  <b> 2.  &nbsp;Install NPM dependencies </b>
    <br>----<i> npm install</i> <br><br>
 -  <b> 2.  &nbsp;Set Up .env file  </b>
@@ -97,7 +96,7 @@ use]. <b>
 ## Author
 
 
-- Name: Sahil Sayyad
-- GitHub: <a><b>[https://github.com/Sahil-Sayyad](https://github.com/Sahil-Sayyad/Placement_Cell)</a></b>
+- Name: Saurabh Linge
+- GitHub: <a><b>[https://github.com/SaurabhLinge]()</a></b>
 - Email: 
 - Website: 
